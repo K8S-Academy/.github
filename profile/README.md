@@ -31,7 +31,7 @@ Within this organization, we will continuously work on:
 
 ## Collaboration
 
-This organization is being developed and maintained by **Amir Kolahi** and **Mehdi Shadi
+This organization is being developed and maintained by **Amir Kolahi** and **Mehdi Shadi**
 GitHub: [AmirKolahi](https://github.com/echoamir)
 GitHub: [mehdiShadi](https://github.com/soloranger)
 Community collaboration is highly encouraged.  

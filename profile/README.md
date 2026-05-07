@@ -36,6 +36,7 @@ This organization is being developed and maintained by **Amir Kolahi** and **Meh
 GitHub: [AmirKolahi](https://github.com/echoamir)
 
 GitHub: [mehdiShadi](https://github.com/soloranger)
+
 Community collaboration is highly encouraged.  
 If you notice an issue, identify an improvement opportunity, or want to contribute technical ideas, feedback, fixes, or experiments, your participation is very welcome.
 
